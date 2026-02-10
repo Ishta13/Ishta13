@@ -42,7 +42,7 @@ A Java-based application for managing student records and basic operations.
 ## Connect
 
 - **GitHub:** https://github.com/Ishta13  
-- **LinkedIn:** *(add your LinkedIn profile link)*
+- **LinkedIn:** www.linkedin.com/in/ishta-sharma-43609b2ba
 
 ---
 
