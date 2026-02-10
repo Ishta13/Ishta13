@@ -33,12 +33,6 @@ A Java-based application for managing student records and basic operations.
 
 ---
 
-## GitHub Activity
-
-![Ishta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ishta13&show_icons=true&theme=dark&hide_border=true)
-
----
-
 ## Connect
 
 - **GitHub:** https://github.com/Ishta13  
