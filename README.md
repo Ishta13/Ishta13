@@ -8,7 +8,7 @@ I enjoy building practical projects, strengthening my problem-solving skills, an
 
 ## Technical Skills
 
-- **Languages:** Python, Java  
+- **Languages:** Java,Python  
 - **Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming  
 - **Machine Learning:** Applied ML, Vision-Language Models  
 - **Databases:** MySQL  
