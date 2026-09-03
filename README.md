@@ -10,7 +10,7 @@ I enjoy building practical projects, strengthening my problem-solving skills, an
 
 - **Languages:** Java,Python  
 - **Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming  
-- **Machine Learning:** Applied ML, Vision-Language Models  
+- **Machine Learning:** Machine Learning Fundamentals
 - **Databases:** MySQL  
 - **Tools:** Git, GitHub, VS Code  
 - **Foundations:** Cloud fundamentals, software development basics  
@@ -23,14 +23,21 @@ I enjoy building practical projects, strengthening my problem-solving skills, an
 A Vision-Language Model–based system for generating context-aware captions from surveillance footage.  
 **Tech:** Python, Machine Learning  
 
-### Emotion-Sensing Learning Assistant  
-An AI-driven assistant designed to detect emotional cues and adapt learning experiences.  
-**Tech:** Python, Machine Learning  
-
-### Student Management System  
-A Java-based application for managing student records and basic operations.  
-**Tech:** Java  
-
+###Risk-Aware Decision Automation 
+• Developed an automated decision support system using Basic Machine Learning Techniques to analyze user
+inputs and generate recommendations.
+• Applied data quality assessment, rule-based risk evaluation, and confidence scoring to improve the reliability
+of automated decisions, with APIs and SQLAlchemy used for application and data operations.
+###Retail Sales Performance Analysis 
+• Analyzed retail sales data to identify business trends and generate meaningful insights for decision-making,
+also creating interactive dashboard for understanding business.
+• Performed data cleaning and analysis with Pandas and MySQL, organizing sales data to support reporting
+and decision-making.
+###Lost & Found Portal 
+• Developed a Lost & Found platform to simplify item reporting, searching, and tracking with efficient item-
+matching functionality.
+• Implemented secure User Authentication and database operations with MySQL, with Jaccard Similarity match-
+ing to identify potentially related items.
 ---
 
 ## Connect
